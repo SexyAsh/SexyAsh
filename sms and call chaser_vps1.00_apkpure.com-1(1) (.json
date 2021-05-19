@@ -1,0 +1,23 @@
+{
+  "starred": false,
+  "viewers_can_download": true,
+  "editors_can_edit_access": true,
+  "last_modified_by_any_user": "2021-01-03T08:04:19.407Z",
+  "last_modified_by_me": "2021-01-03T08:04:19.407Z",
+  "content_last_modified": "2021-01-03T08:04:19.407Z",
+  "created": "2021-01-03T08:04:19.675Z",
+  "permissions": [
+    {
+      "id": "11925425020961198711",
+      "name": "Ashley Kay",
+      "type": "user",
+      "role": "owner",
+      "kind": "drive#permission",
+      "self_link": "https://www.googleapis.com/drive/v2/files/13F6k53bNKLjSXOdiTYrMKovLuhtVEyS6/permissions/11925425020961198711",
+      "email_address": "kay82082@gmail.com",
+      "domain": "gmail.com",
+      "etag": "\"Sz0zjqaF5p_-n_116-Bf4EgKqOA\"",
+      "deleted": false
+    }
+  ]
+}
